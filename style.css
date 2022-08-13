@@ -1,0 +1,50 @@
+h1{
+	margin-left: 40px;
+	margin-top: 40px;
+	color: #143F6B;
+}
+
+h4{
+	margin-left: 40px;
+	color: #7F7C82;
+	font-size: 19px;
+}
+
+.appointmentInput {
+  margin: 10px 0 0 40px;
+  width: 260px;
+  height: 40px;
+  border-radius: 20px;
+  /*border-color: #F4E06D;*/
+  border: 1px solid #F4E06D;
+  color: #7F7C82;
+  padding-left: 20px;
+}
+
+.appointmentButton {
+  margin-left: 40px;
+  margin-top: 20px;
+  width:310px;
+  height: 40px;
+  border-radius: 12px;
+  background-color: #A63446;
+  border-color: #820000;
+  color: #ffffff;
+  font-size: 15px;
+ 
+}
+.appointmentButton:hover {
+	background-color: #820000;
+}
+
+.appointmentCheckbox{
+	margin-left: 40px;
+	margin-top: 20px;
+    color: #7F7C82;
+}
+
+.agreeSpan{
+      width: 260px;
+    display: inline-block;
+    padding-top: 20px;
+}
